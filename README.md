@@ -13,6 +13,8 @@ I am a Javascript developer who focuses on front-end frameworks such as React, A
 
 [<img src="https://spotify-github-readme.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedaliznidi&show_icons=true&theme=dark&count_private=true&hide=contributedto)
+
 ```javascript
 const dali = {
   pronouns: "he" | "him",
@@ -28,4 +30,4 @@ const dali = {
 ```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaliznidi&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedaliznidi&show_icons=true&theme=dark&count_private=true&hide=contributed-to)
+
