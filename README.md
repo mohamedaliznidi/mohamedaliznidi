@@ -11,7 +11,7 @@ I am a Javascript developer who focuses on front-end frameworks such as React, A
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8)
+[<img src="https://spotify-github-readme.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8)
 
 ### Connect with me:
 
