@@ -13,7 +13,7 @@ I am a Javascript developer who focuses on front-end frameworks such as React, A
 
 [<img src="https://spotify-github-readme.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedaliznidi&show_icons=true&theme=dark&count_private=true&hide=contributedto)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedaliznidi&show_icons=true&theme=dark&count_private=true&hide=Contributed to)
 
 ```javascript
 const dali = {
