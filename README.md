@@ -13,12 +13,12 @@ I am a Javascript developer who focuses on front-end frameworks such as React, A
 
 [<img src="https://spotify-github-readme.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedaliznidi&show_icons=true&theme=dark&count_private=true&hide=Contributedto)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedaliznidi&show_icons=true&theme=dark&count_private=true&hide=Contributed%20to)
 
 ```javascript
 const dali = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, C, C++, Python, Java],
+  code: [Javascript, Typescript, Html, Css, C, C%2B%2B, Python, Java],
   tools: [React, Redux, Node, Storybook, Styled-Components, Angular, Spring-Boot],
  
   Instructor: {
