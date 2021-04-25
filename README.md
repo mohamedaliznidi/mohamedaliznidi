@@ -26,3 +26,5 @@ const dali = {
  challenge: "I am trying to commit some pieces of code every day"
 }
 ```
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaliznidi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
