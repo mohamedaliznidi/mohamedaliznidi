@@ -38,4 +38,4 @@ const dali = {
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mohamedaliznidi&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaliznidi&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### GitHub Activity Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohamedaliznidi&theme=rogue)  
+![Github Activity Graph](https://arcane-sea-79457.herokuapp.com/graph?username=mohamedaliznidi&theme=rogue)  
