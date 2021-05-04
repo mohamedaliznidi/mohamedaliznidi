@@ -35,7 +35,7 @@ const dali = {
 ```
 ### GitHub streak stats
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mohamedaliznidi&theme=highcontrast) 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mohamedaliznidi&theme=tokyonight) 
 
 ### Coding Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaliznidi&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
