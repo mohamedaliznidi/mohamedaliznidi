@@ -33,9 +33,9 @@ const dali = {
  challenge: "I am trying to commit some pieces of code every day"
 }
 ```
-### GitHub streak stats   ### Coding Stats
+### GitHub Streak Stats  And Top Langs
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mohamedaliznidi&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaliznidi&layout=compact&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mohamedaliznidi&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaliznidi&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### GitHub Activity Graph
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohamedaliznidi&theme=rogue)  
