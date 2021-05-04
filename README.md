@@ -33,6 +33,10 @@ const dali = {
  challenge: "I am trying to commit some pieces of code every day"
 }
 ```
+### GitHub streak stats
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mohamedaliznidi) 
+
 ### Coding Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaliznidi&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
