@@ -5,7 +5,7 @@ I am a Javascript developer who focuses on front-end frameworks such as React, A
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Mohamedali-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedali-znidi/) [![Mail Badge](https://img.shields.io/badge/-@mohamedaliznidi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/daliznidi) [![Mail Badge](https://img.shields.io/badge/-mohamedaliznidi-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mohamedali.znidi1@esprit.tn)![Profile views](https://gpvc.arturio.dev/mohamedaliznidi) 
+[![Linkedin Badge](https://img.shields.io/badge/-Mohamedali-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedali-znidi/) [![Mail Badge](https://img.shields.io/badge/-@mohamedaliznidi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/daliznidi) [![Mail Badge](https://img.shields.io/badge/-mohamedaliznidi-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mohamedali.znidi1@esprit.tn) [![Profile views](https://gpvc.arturio.dev/mohamedaliznidi) 
 
 - 🔭 I’m currently working on [consomi-tounsi-FrontEnd](https://github.com/mohamedaliznidi/consomi-tounsi-FrontEnd)
 - 🌱 I’m currently learning Typescript, Gatsby.js, GraphQL
