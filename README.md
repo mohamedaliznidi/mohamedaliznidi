@@ -39,4 +39,5 @@ const dali = {
 
 ### Coding Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaliznidi&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+### GitHub Activity Graph
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohamedaliznidi&theme=rogue)  
