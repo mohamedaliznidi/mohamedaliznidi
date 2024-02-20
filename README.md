@@ -13,12 +13,8 @@ I am a Javascript developer who focuses on front-end frameworks such as React, A
 - ⚡ Fun fact: I love to play bass guitar or make weird sounds with synthesizer
 - 💬 Ask me about anything [here](https://github.com/mohamedaliznidi/mohamedaliznidi/issues)
 
-### Spotify Playing 🎧
-
-[<img src="https://spotify-github-readme.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8)
-
-### Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedaliznidi&count_private=true&theme=tokyonight&hide=contribs,prs)
+### Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaliznidi&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ```javascript
 const dali = {
@@ -35,7 +31,4 @@ const dali = {
 ```
 ### GitHub Streak Stats  And Top Langs
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mohamedaliznidi&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaliznidi&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-### GitHub Activity Graph
-![Github Activity Graph](https://arcane-sea-79457.herokuapp.com/graph?username=mohamedaliznidi&theme=rogue)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mohamedaliznidi&theme=tokyonight) 
